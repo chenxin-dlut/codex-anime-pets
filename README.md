@@ -1,27 +1,27 @@
-# Codex Chibi Pals
+# Codex Anime Pets
 
-Fan-made chibi companions for the Codex desktop app. These tiny desk pals were generated from chibi / pixel-pet interpretations of anime and game characters I like, then packaged as Codex-compatible `pet.json + spritesheet.webp` folders.
+Tiny chibi companions for the Codex desktop app. These fan-made anime pets were generated from chibi / pixel-pet interpretations of anime and game characters I like, then packaged as Codex-compatible `pet.json + spritesheet.webp` folders.
 
 <p align="center">
-  <img src="assets/gallery/codex-chibi-pals-gallery.jpg" alt="Codex Chibi Pals gallery" width="920">
+  <img src="assets/gallery/codex-anime-pets-gallery.jpg" alt="Codex Anime Pets gallery" width="920">
 </p>
 
 ## Download
 
-The easiest way is to grab the latest ZIP from [Releases](https://github.com/chenxin-dlut/codex-chibi-pals/releases/latest).
+The easiest way is to grab the latest ZIP from [Releases](https://github.com/chenxin-dlut/codex-anime-pets/releases/latest).
 
 Clone the repo, then copy any pet folder into your local Codex pets directory:
 
 ```bash
-git clone https://github.com/chenxin-dlut/codex-chibi-pals.git
+git clone https://github.com/chenxin-dlut/codex-anime-pets.git
 mkdir -p ~/.codex/pets
-cp -R codex-chibi-pals/pets/hu-tao ~/.codex/pets/
+cp -R codex-anime-pets/pets/hu-tao ~/.codex/pets/
 ```
 
 To install every pet:
 
 ```bash
-cp -R codex-chibi-pals/pets/* ~/.codex/pets/
+cp -R codex-anime-pets/pets/* ~/.codex/pets/
 ```
 
 Each folder contains:
