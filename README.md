@@ -3,11 +3,11 @@
 Tiny chibi companions for the Codex desktop app. These fan-made anime pets were generated from chibi / pixel-pet interpretations of anime and game characters I like, then packaged as Codex-compatible `pet.json + spritesheet.webp` folders.
 
 <p align="center">
-  <img src="assets/gallery/codex-anime-pets-gallery.jpg" alt="Codex Anime Pets gallery" width="920">
+  <img src="assets/animations/codex-anime-pets-showcase.gif" alt="Animated preview of Codex Anime Pets" width="620">
 </p>
 
 <p align="center">
-  <img src="assets/animations/codex-anime-pets-showcase.gif" alt="Animated preview of Codex Anime Pets" width="620">
+  <img src="assets/gallery/codex-anime-pets-gallery.jpg" alt="Codex Anime Pets gallery" width="920">
 </p>
 
 ## Download
