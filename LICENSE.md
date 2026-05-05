@@ -1,6 +1,6 @@
 # License And Fan-Content Notice
 
-The documentation, metadata catalog, and tooling in this repository are licensed under the MIT License:
+The documentation in this repository is licensed under the MIT License:
 
 ```text
 MIT License
@@ -33,4 +33,3 @@ The image assets in `pets/` and `assets/` are fan-made generated sprites for per
 No license is granted to any underlying third-party character, trademark, setting, or franchise. All such rights remain with their respective owners. This repository is unofficial and is not affiliated with, sponsored by, or endorsed by any rights holder.
 
 If you are a rights holder and want an asset removed, please open an issue or contact the repository owner.
-

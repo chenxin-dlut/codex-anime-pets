@@ -6,6 +6,10 @@ Tiny chibi companions for the Codex desktop app. These fan-made anime pets were 
   <img src="assets/gallery/codex-anime-pets-gallery.jpg" alt="Codex Anime Pets gallery" width="920">
 </p>
 
+<p align="center">
+  <img src="assets/animations/codex-anime-pets-showcase.gif" alt="Animated preview of Codex Anime Pets" width="620">
+</p>
+
 ## Download
 
 The easiest way is to grab the latest ZIP from [Releases](https://github.com/chenxin-dlut/codex-anime-pets/releases/latest).
@@ -67,17 +71,7 @@ The included spritesheets follow the current Codex pet atlas layout:
 - `192 x 208` pixels per cell.
 - Transparent unused cells.
 
-All included atlases pass the deterministic validation script from the local `hatch-pet` workflow.
-
-## Build Preview Assets
-
-The pet packages are the source of truth. Preview images in `assets/` can be rebuilt from the packaged spritesheets:
-
-```bash
-python tools/build_previews.py
-```
-
-The contact sheets were generated from the same spritesheets with the local `hatch-pet` tooling.
+All included atlases were checked against the Codex pet layout before publishing.
 
 ## Copyright And Fan-Content Notice
 
