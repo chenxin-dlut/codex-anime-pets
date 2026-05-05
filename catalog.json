@@ -1,0 +1,178 @@
+[
+  {
+    "id": "aiko",
+    "displayName": "Aiko",
+    "description": "A tiny original Codex digital pet: an auburn-haired chibi scientist girl in a red turtleneck and white lab coat.",
+    "package": "pets/aiko/",
+    "preview": "assets/previews/aiko.png",
+    "contactSheet": "assets/contact-sheets/aiko.png"
+  },
+  {
+    "id": "anya",
+    "displayName": "Anya",
+    "description": "A tiny human chibi Codex pet based on Anya's recognizable pink-haired girl look.",
+    "package": "pets/anya/",
+    "preview": "assets/previews/anya.png",
+    "contactSheet": "assets/contact-sheets/anya.png"
+  },
+  {
+    "id": "ayaka",
+    "displayName": "Ayaka",
+    "description": "A compact chibi pixel-art digital pet based on Kamisato Ayaka as a human character.",
+    "package": "pets/ayaka/",
+    "preview": "assets/previews/ayaka.png",
+    "contactSheet": "assets/contact-sheets/ayaka.png"
+  },
+  {
+    "id": "baobao",
+    "displayName": "Baobao",
+    "description": "A tiny chibi pixel pet based on Feng Baobao from Under One Person, kept as a human character rather than an animal.",
+    "package": "pets/baobao/",
+    "preview": "assets/previews/baobao.png",
+    "contactSheet": "assets/contact-sheets/baobao.png"
+  },
+  {
+    "id": "chen",
+    "displayName": "Chen",
+    "description": "A compact human chibi Codex pet based on Ch’en from Arknights, preserving her own human operator identity.",
+    "package": "pets/chen/",
+    "preview": "assets/previews/chen.png",
+    "contactSheet": "assets/contact-sheets/chen.png"
+  },
+  {
+    "id": "conan",
+    "displayName": "Conan",
+    "description": "A tiny human boy detective pet based on Conan's own recognizable look, not transformed into an animal.",
+    "package": "pets/conan/",
+    "preview": "assets/previews/conan.png",
+    "contactSheet": "assets/contact-sheets/conan.png"
+  },
+  {
+    "id": "furina",
+    "displayName": "Furina",
+    "description": "A tiny chibi digital pet based on Furina from Genshin Impact, kept as a human character rather than an animal.",
+    "package": "pets/furina/",
+    "preview": "assets/previews/furina.png",
+    "contactSheet": "assets/contact-sheets/furina.png"
+  },
+  {
+    "id": "ganyu",
+    "displayName": "Ganyu",
+    "description": "A chibi Codex digital pet version of Ganyu herself.",
+    "package": "pets/ganyu/",
+    "preview": "assets/previews/ganyu.png",
+    "contactSheet": "assets/contact-sheets/ganyu.png"
+  },
+  {
+    "id": "hu-tao",
+    "displayName": "Hu Tao",
+    "description": "A tiny chibi human Hu Tao digital pet for Codex, faithful to her recognizable Genshin Impact appearance and not animalized.",
+    "package": "pets/hu-tao/",
+    "preview": "assets/previews/hu-tao.png",
+    "contactSheet": "assets/contact-sheets/hu-tao.png"
+  },
+  {
+    "id": "kid",
+    "displayName": "Kid",
+    "description": "A chibi pixel-art digital pet inspired by Kaito Kid as himself, in a white suit, cape, top hat, monocle, and confident magician-thief pose.",
+    "package": "pets/kid/",
+    "preview": "assets/previews/kid.png",
+    "contactSheet": "assets/contact-sheets/kid.png"
+  },
+  {
+    "id": "klee",
+    "displayName": "Klee",
+    "description": "A small chibi pixel-pet version of Klee from Genshin Impact, kept as Klee herself.",
+    "package": "pets/klee/",
+    "preview": "assets/previews/klee.png",
+    "contactSheet": "assets/contact-sheets/klee.png"
+  },
+  {
+    "id": "lappland",
+    "displayName": "Lappland",
+    "description": "A compact chibi Codex pet based on Lappland from Arknights, preserving her humanoid white-haired Lupo swordswoman identity.",
+    "package": "pets/lappland/",
+    "preview": "assets/previews/lappland.png",
+    "contactSheet": "assets/contact-sheets/lappland.png"
+  },
+  {
+    "id": "march-7th",
+    "displayName": "March 7th",
+    "description": "A tiny chibi digital-pet version of March 7th from Honkai Star Rail, kept as herself rather than transformed into an animal.",
+    "package": "pets/march-7th/",
+    "preview": "assets/previews/march-7th.png",
+    "contactSheet": "assets/contact-sheets/march-7th.png"
+  },
+  {
+    "id": "new-covenant-exusiai",
+    "displayName": "新约能天使",
+    "description": "A compact Codex digital pet based on Exusiai the New Covenant from Arknights, kept as her own chibi human/Sankta form.",
+    "package": "pets/new-covenant-exusiai/",
+    "preview": "assets/previews/new-covenant-exusiai.png",
+    "contactSheet": "assets/contact-sheets/new-covenant-exusiai.png"
+  },
+  {
+    "id": "phoebe",
+    "displayName": "Phoebe",
+    "description": "A tiny human Phoebe pet inspired by Wuthering Waves: blonde acolyte girl with purple eyes, wide hat, blue-white cleric outfit, blue cape, and a simplified rectifier staff.",
+    "package": "pets/phoebe/",
+    "preview": "assets/previews/phoebe.png",
+    "contactSheet": "assets/contact-sheets/phoebe.png"
+  },
+  {
+    "id": "raiden",
+    "displayName": "Raiden",
+    "description": "A chibi pixel-art Codex pet based on Raiden Shogun, preserving her human character identity.",
+    "package": "pets/raiden/",
+    "preview": "assets/previews/raiden.png",
+    "contactSheet": "assets/contact-sheets/raiden.png"
+  },
+  {
+    "id": "regulus-star-antimony",
+    "displayName": "星锑",
+    "description": "A tiny human chibi Codex pet based on Regulus / 星锑 from Reverse: 1999, preserving her white aviator cap, dark sunglasses, red-orange jacket, blue outfit, and radio-DJ arcanist identity.",
+    "package": "pets/regulus-star-antimony/",
+    "preview": "assets/previews/regulus-star-antimony.png",
+    "contactSheet": "assets/contact-sheets/regulus-star-antimony.png"
+  },
+  {
+    "id": "shinchan",
+    "displayName": "Shinchan",
+    "description": "A tiny Codex digital pet version of Crayon Shin-chan as himself, not transformed into an animal.",
+    "package": "pets/shinchan/",
+    "preview": "assets/previews/shinchan.png",
+    "contactSheet": "assets/contact-sheets/shinchan.png"
+  },
+  {
+    "id": "sonetto",
+    "displayName": "Sonetto",
+    "description": "A tiny Codex digital pet inspired by Sonetto from Reverse: 1999, kept as a human chibi character rather than an animal.",
+    "package": "pets/sonetto/",
+    "preview": "assets/previews/sonetto.png",
+    "contactSheet": "assets/contact-sheets/sonetto.png"
+  },
+  {
+    "id": "vertin",
+    "displayName": "Vertin",
+    "description": "A compact Codex digital pet version of Vertin from Reverse: 1999, as her own human Timekeeper form.",
+    "package": "pets/vertin/",
+    "preview": "assets/previews/vertin.png",
+    "contactSheet": "assets/contact-sheets/vertin.png"
+  },
+  {
+    "id": "yoimiya",
+    "displayName": "Yoimiya",
+    "description": "A chibi human digital pet inspired by Yoimiya from Genshin Impact, preserving her recognizable fireworks-maker appearance.",
+    "package": "pets/yoimiya/",
+    "preview": "assets/previews/yoimiya.png",
+    "contactSheet": "assets/contact-sheets/yoimiya.png"
+  },
+  {
+    "id": "zani",
+    "displayName": "Zani",
+    "description": "A chibi human digital pet inspired by Zani from Wuthering Waves, preserving her white hair, dark horns, red eyes, business shirt, red tie, black harness, gloves, and black pants.",
+    "package": "pets/zani/",
+    "preview": "assets/previews/zani.png",
+    "contactSheet": "assets/contact-sheets/zani.png"
+  }
+]
