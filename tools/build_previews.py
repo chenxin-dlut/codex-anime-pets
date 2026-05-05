@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build README preview assets from Codex pet spritesheets."""
+"""Build README preview assets from Codex Chibi Pals spritesheets."""
 
 from __future__ import annotations
 
@@ -100,7 +100,7 @@ def render_gallery(entries: list[dict[str, str]], output: Path) -> None:
     label_font = load_font(25)
     small_font = load_font(17)
 
-    draw.text((margin, 36), "Codex Pets", fill=(28, 31, 40, 255), font=title_font)
+    draw.text((margin, 36), "Codex Chibi Pals", fill=(28, 31, 40, 255), font=title_font)
     draw.text(
         (margin, 94),
         "Fan-made tiny companions for the Codex desktop app",
@@ -173,7 +173,7 @@ def main() -> None:
             }
         )
 
-    render_gallery(entries, GALLERY_DIR / "codex-pets-gallery.jpg")
+    render_gallery(entries, GALLERY_DIR / "codex-chibi-pals-gallery.jpg")
     CATALOG_PATH.write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
