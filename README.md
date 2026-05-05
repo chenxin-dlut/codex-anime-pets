@@ -8,6 +8,8 @@ Fan-made tiny companions for the Codex desktop app. These pets were generated fr
 
 ## Download
 
+The easiest way is to grab the latest ZIP from [Releases](https://github.com/chenxin-dlut/codex-pets/releases/latest).
+
 Clone the repo, then copy any pet folder into your local Codex pets directory:
 
 ```bash
@@ -86,4 +88,3 @@ This repository is an unofficial, non-commercial fan collection. The sprites her
 The assets are shared for personal, non-commercial use as Codex desktop pets. If you are a rights holder and want something removed, please open an issue or contact the repo owner and it will be handled promptly.
 
 See [LICENSE.md](LICENSE.md) for the split between repository code/docs and fan-art assets.
-
