@@ -2,5 +2,6 @@
   "id": "vertin",
   "displayName": "Vertin",
   "description": "A compact Codex digital pet version of Vertin from Reverse: 1999, as her own human Timekeeper form.",
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "lookDirections": ["center"]
 }

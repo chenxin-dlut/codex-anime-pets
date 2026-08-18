@@ -71,6 +71,8 @@ The included spritesheets follow the current Codex pet atlas layout:
 - `192 x 208` pixels per cell.
 - Transparent unused cells.
 
+The latest Codex version added optional **look directions**. Each `pet.json` now declares the directions its atlas provides through the `lookDirections` field. The pets in this repository use the default `center` direction on the standard `8 x 9` atlas, so they stay compatible without new art.
+
 All included atlases were checked against the Codex pet layout before publishing.
 
 ## Copyright And Fan-Content Notice
